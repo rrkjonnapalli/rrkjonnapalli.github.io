@@ -27,7 +27,7 @@ r.ravikiranjonnapalli@gmail.com
 * ### Richpanel
     URL: [Richpanel][RICHPANEL]
 
-    *position:* **Full stack developer**
+    *Position:* **Full stack developer**
 
     *Duration:***_Jan 2017 - Mar 2019_**
 
@@ -41,7 +41,7 @@ r.ravikiranjonnapalli@gmail.com
 
     * #### People segments
 
-        Name itself describes the work it is doing, i.e, it is used to segregate people of clients across multiple applications they have by using specific criteria. like they can create segments of loyal customers in by some of the filters.
+        Name itself describes the work it is doing, i.e, it is used to segregate people of clients across multiple applications they have, by using specific criteria. Like they can create segments of loyal customers using filters available.
 
         Technologies used: Nodejs, Postgraphile, Express Lambda, Vue
 
@@ -51,7 +51,7 @@ r.ravikiranjonnapalli@gmail.com
 
     URL: [Way2online][WAY2ONLINE]
 
-    *position:* **Product Engineer**
+    *Position:* **Product Engineer**
 
     *Duration:***_May 2017 - Jan 2019_**
 
@@ -59,7 +59,7 @@ r.ravikiranjonnapalli@gmail.com
 
         DMP is the place where Way2online is building the profiles of the users, to target the specific users they need for their campaign targeting.
         
-        Technologies used: python, Node JS
+        Technologies used: Python, Node JS
         
         Databases used: Cassandra, Mongodb, Redis
 
@@ -69,11 +69,11 @@ r.ravikiranjonnapalli@gmail.com
 
         _alias:_ **Truepush** 
 
-        Way2push is a platform for companies to advertise their ads through push notifications.
+        Way2push is a platform for marketers to advertise their ads through push notifications.
         
         Technologies used: Loopbackjs, Angular 6
         
-        Databases used: mongodb
+        Databases used: Mongodb
 
     * #### Adwords API
 
@@ -81,7 +81,7 @@ r.ravikiranjonnapalli@gmail.com
         
         Technologies used: Python, Falsk
         
-        Databases used: mongodb
+        Databases used: Mongodb
 
     * #### Facebook API
 
@@ -89,7 +89,7 @@ r.ravikiranjonnapalli@gmail.com
 
         Technologies used:Nodejs, Express
         
-        Databases used: mongodb
+        Databases used: Mongodb
 
 
 
