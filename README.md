@@ -29,7 +29,7 @@ r.ravikiranjonnapalli@gmail.com
 
     *Position:* **Full stack developer**
 
-    *Duration:***_Jan 2017 - Mar 2019_**
+    *Duration:***_Jan 2019 - Mar 2019_**
 
     * #### Hubspot connector
 
