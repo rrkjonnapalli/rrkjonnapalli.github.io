@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "gh-build": "ng build --configuration=production --base-href https://rrkjonnapalli.github.io/elit/",
+    "gh-build": "ng build --configuration=production --base-href https://rrkjonnapalli.github.io",
     "gh-deploy": "ngh --dir=dist/rrkjonnapalli/browser",
     "test": "ng test"
   },
